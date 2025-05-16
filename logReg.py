@@ -1,14 +1,3 @@
-############################################################################################
-# Copyright (C) 2024 by Sandro Cumani                                                      #
-#                                                                                          #
-# This file is provided for didactic purposes only, according to the Politecnico di Torino #
-# policies on didactic material.                                                           #
-#                                                                                          #
-# Any form of re-distribution or online publication is forbidden.                          #
-#                                                                                          #
-# This file is provided as-is, without any warranty                                        #
-############################################################################################
-
 import numpy
 import scipy.special
 import sklearn.datasets
